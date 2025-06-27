@@ -1,1 +1,1 @@
-# Commnly Asked coding questions are here....!
+# Commonly Asked coding questions are here....!
